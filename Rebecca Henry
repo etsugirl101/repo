@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rebecca Henry, LCSW</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to my therapy page.</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>About Me</h2>
+        <p>I'm a passionate providing cognitive behavioral therapy.  I've been a licensed clinical therapist in the state of TN for over 10 years. Accepting BCBSTN, Aetna, Cigna, UHC, BlueCare, Amerigroup, Medicare         ...</p>
+    </main>
+    <footer>
+        <Rebecca Henry, LCSW; 2023 Rebecca.HenryLCSW@gmail.com</p>
+    </footer>
+</body>
+</html>
